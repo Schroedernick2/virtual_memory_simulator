@@ -4,4 +4,8 @@
 #ifndef SIMULATOR_H
 #define SIMULATOR_H
 
+namespace COE_1550_VMSIM {
+
+}
+
 #endif

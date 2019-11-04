@@ -4,4 +4,8 @@
 #ifndef FIFO_SIM_H
 #define FIFO_SIM_H
 
+namespace COE_1550_VMSIM {
+
+}
+
 #endif
